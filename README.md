@@ -1,4 +1,6 @@
-name
+Attempt to make patching smoother for ABI of Nginx 1.18
+
+Hello, world
 ====
 
 This module provides support for [the CONNECT method request](https://tools.ietf.org/html/rfc7231#section-4.3.6).

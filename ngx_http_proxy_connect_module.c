@@ -9,7 +9,7 @@
 #include <nginx.h>
 
 
-#define NGX_HTTP_PROXY_CONNECT_ESTABLISTHED     \
+#define NGX_HTTP_PROXY_CONNECT_ESTABLISHED     \
     "HTTP/1.1 200 Connection Established\r\n"   \
     "Proxy-agent: nginx\r\n\r\n"
 
